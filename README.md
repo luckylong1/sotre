@@ -1,1 +1,1 @@
-# sotre
+# store
